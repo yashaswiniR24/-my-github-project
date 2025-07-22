@@ -1,2 +1,2 @@
 "simulating changes by user 2" 
-"testing conflict user 2" 
+"testing conflict" 

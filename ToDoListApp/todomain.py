@@ -1,3 +1,5 @@
+from Viewtask import view_todos
+from addtask import add_todo
 def load_todos():
     try:
         with open("todos.txt", "r") as file:

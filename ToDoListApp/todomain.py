@@ -1,3 +1,5 @@
+from marktask import mark_complete
+from deletetask import delete_todo
 def load_todos():
     try:
         with open("todos.txt", "r") as file:
